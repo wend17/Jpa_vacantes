@@ -290,7 +290,7 @@ public class JpaVacantesApplication implements CommandLineRunner {
         }
     }
 
-    /* Método deleteById - Interfaz CrudRepository
+    /* Método deleteById - Interfaz CrudRepository - eliminar por Id
      * */
     private void eliminar() {
         int idCategoria = 20;
